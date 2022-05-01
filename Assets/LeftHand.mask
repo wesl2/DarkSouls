@@ -1,0 +1,397 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LeftHand
+  m_Mask: 00000000000000000000000000000000000000000000000000000000010000000000000000000000000000000100000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: 24_+armleftRig.part1-mat002_1_0_0
+    m_Weight: 1
+  - m_Path: 24_+armrightRig.part1-mat001_1_0_0
+    m_Weight: 1
+  - m_Path: 24_+helmetOpen.part1-mat025_1_0_0
+    m_Weight: 1
+  - m_Path: 24_+pauldron.part1-mat007_1_0_0
+    m_Weight: 1
+  - m_Path: 24_part1-mat003_1_0_0
+    m_Weight: 1
+  - m_Path: 24_part1-mat004_1_0_0
+    m_Weight: 1
+  - m_Path: 24_part1-mat006_1_0_0
+    m_Weight: 1
+  - m_Path: 24_part1-mat008_1_0_0
+    m_Weight: 1
+  - m_Path: 24_part1-mat009_1_0_0
+    m_Weight: 1
+  - m_Path: 24_part1-mat011_1_0_0
+    m_Weight: 1
+  - m_Path: 24_part1-mat012_1_0_0
+    m_Weight: 1
+  - m_Path: 24_part1-mat014_1_0_0
+    m_Weight: 1
+  - m_Path: 24_part1-mat015_1_0_0
+    m_Weight: 1
+  - m_Path: 24_part1-mat019_1_0_0
+    m_Weight: 1
+  - m_Path: 24_part1-mat020_1_0_0
+    m_Weight: 1
+  - m_Path: 24_part2-mat001_1_0_0
+    m_Weight: 1
+  - m_Path: 25_+helmetClose.part1-mat017_1_0_0
+    m_Weight: 1
+  - m_Path: 25_+helmetOpen.part1-mat026_1_0_0
+    m_Weight: 1
+  - m_Path: 25_part1-mat005_1_0_0
+    m_Weight: 1
+  - m_Path: 25_part1-mat010_1_0_0
+    m_Weight: 1
+  - m_Path: 25_part1-mat016_1_0_0
+    m_Weight: 1
+  - m_Path: 25_part1-mat022_1_0_0
+    m_Weight: 1
+  - m_Path: 25_part1-mat023_1_0_0
+    m_Weight: 1
+  - m_Path: 25_part1-mat024_1_0_0
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 1
+  - m_Path: Armature/root ground
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/pelvis
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/pelvis/cloth left
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/pelvis/cloth left/cloth left_end
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/pelvis/cloth right
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/pelvis/cloth right/cloth right_end
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/pelvis/greaves left
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/pelvis/greaves left/greaves left_end
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/pelvis/greaves right
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/pelvis/greaves right/greaves right_end
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/pelvis/leg left thigh
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee/leg
+      left ankle
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee/leg
+      left ankle/leg left toes
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee/leg
+      left ankle/leg left toes/leg left toes_end
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee/leg
+      left knee twist
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee/leg
+      left knee twist/leg left knee twist_end
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee adj
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee adj/leg
+      left knee adj_end
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/pelvis/leg right thigh
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee/leg
+      right ankle
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee/leg
+      right ankle/leg right toes
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee/leg
+      right ankle/leg right toes/leg right toes_end
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee/leg
+      right knee twist
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee/leg
+      right knee twist/leg right knee twist_end
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee
+      adj
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee
+      adj/leg right knee adj_end
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+      1
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+      1/arm left shoulder 2
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+      1/arm left shoulder 2/arm left pauldron
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+      1/arm left shoulder 2/arm left pauldron/arm left pauldron_end
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+      1/arm left shoulder 2/arm left shoulder twist
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+      1/arm left shoulder 2/arm left shoulder twist/arm left elbow
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+      1/arm left shoulder 2/arm left shoulder twist/arm left elbow/arm left forearm
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+      1/arm left shoulder 2/arm left shoulder twist/arm left elbow/arm left forearm/arm
+      left elbow twist
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+      1/arm left shoulder 2/arm left shoulder twist/arm left elbow/arm left forearm/arm
+      left elbow twist/arm left elbow twist_end
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+      1/arm left shoulder 2/arm left shoulder twist/arm left elbow/arm left wrist
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+      1/arm left shoulder 2/arm left shoulder twist/arm left elbow/arm left wrist/arm
+      left finger 00
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+      1/arm left shoulder 2/arm left shoulder twist/arm left elbow/arm left wrist/arm
+      left finger 00/arm left finger 01
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+      1/arm left shoulder 2/arm left shoulder twist/arm left elbow/arm left wrist/arm
+      left finger 00/arm left finger 01/arm left finger 02
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+      1/arm left shoulder 2/arm left shoulder twist/arm left elbow/arm left wrist/arm
+      left finger 00/arm left finger 01/arm left finger 02/arm left finger 02_end
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+      1/arm left shoulder 2/arm left shoulder twist/arm left elbow/arm left wrist/arm
+      left finger 10
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+      1/arm left shoulder 2/arm left shoulder twist/arm left elbow/arm left wrist/arm
+      left finger 10/arm left finger 11
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+      1/arm left shoulder 2/arm left shoulder twist/arm left elbow/arm left wrist/arm
+      left finger 10/arm left finger 11/arm left finger 12
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+      1/arm left shoulder 2/arm left shoulder twist/arm left elbow/arm left wrist/arm
+      left finger 10/arm left finger 11/arm left finger 12/arm left finger 12_end
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+      1/arm left shoulder 2/arm left shoulder twist/arm left elbow/arm left wrist/arm
+      left finger 20
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+      1/arm left shoulder 2/arm left shoulder twist/arm left elbow/arm left wrist/arm
+      left finger 20/arm left finger 21
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+      1/arm left shoulder 2/arm left shoulder twist/arm left elbow/arm left wrist/arm
+      left finger 20/arm left finger 21/arm left finger 22
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+      1/arm left shoulder 2/arm left shoulder twist/arm left elbow/arm left wrist/arm
+      left finger 20/arm left finger 21/arm left finger 22/arm left finger 22_end
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+      1/arm left shoulder 2/arm left shoulder twist/arm left elbow/arm left wrist/arm
+      left finger 30
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+      1/arm left shoulder 2/arm left shoulder twist/arm left elbow/arm left wrist/arm
+      left finger 30/arm left finger 31
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+      1/arm left shoulder 2/arm left shoulder twist/arm left elbow/arm left wrist/arm
+      left finger 30/arm left finger 31/arm left finger 32
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+      1/arm left shoulder 2/arm left shoulder twist/arm left elbow/arm left wrist/arm
+      left finger 30/arm left finger 31/arm left finger 32/arm left finger 32_end
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+      1/arm left shoulder 2/arm left shoulder twist/arm left elbow/arm left wrist/arm
+      left finger 40
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+      1/arm left shoulder 2/arm left shoulder twist/arm left elbow/arm left wrist/arm
+      left finger 40/arm left finger 41
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+      1/arm left shoulder 2/arm left shoulder twist/arm left elbow/arm left wrist/arm
+      left finger 40/arm left finger 41/arm left finger 42
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+      1/arm left shoulder 2/arm left shoulder twist/arm left elbow/arm left wrist/arm
+      left finger 40/arm left finger 41/arm left finger 42/arm left finger 42_end
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+      1/arm left shoulder 2/arm left shoulder twist/arm left elbow/arm left wrist/arm
+      left wrist adj
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+      1/arm left shoulder 2/arm left shoulder twist/arm left elbow/arm left wrist/arm
+      left wrist adj/arm left wrist adj_end
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+      1
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+      1/arm right shoulder 2
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+      1/arm right shoulder 2/arm right shoulder twist
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+      1/arm right shoulder 2/arm right shoulder twist/arm right elbow
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+      1/arm right shoulder 2/arm right shoulder twist/arm right elbow/arm right elbow
+      twist
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+      1/arm right shoulder 2/arm right shoulder twist/arm right elbow/arm right elbow
+      twist/arm right elbow twist_end
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+      1/arm right shoulder 2/arm right shoulder twist/arm right elbow/arm right forearm
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+      1/arm right shoulder 2/arm right shoulder twist/arm right elbow/arm right forearm/arm
+      right foretwist
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+      1/arm right shoulder 2/arm right shoulder twist/arm right elbow/arm right forearm/arm
+      right foretwist/arm right foretwist_end
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+      1/arm right shoulder 2/arm right shoulder twist/arm right elbow/arm right wrist
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+      1/arm right shoulder 2/arm right shoulder twist/arm right elbow/arm right wrist/arm
+      right finger 00
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+      1/arm right shoulder 2/arm right shoulder twist/arm right elbow/arm right wrist/arm
+      right finger 00/arm right finger 01
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+      1/arm right shoulder 2/arm right shoulder twist/arm right elbow/arm right wrist/arm
+      right finger 00/arm right finger 01/arm right finger 02
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+      1/arm right shoulder 2/arm right shoulder twist/arm right elbow/arm right wrist/arm
+      right finger 00/arm right finger 01/arm right finger 02/arm right finger 02_end
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+      1/arm right shoulder 2/arm right shoulder twist/arm right elbow/arm right wrist/arm
+      right finger 10
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+      1/arm right shoulder 2/arm right shoulder twist/arm right elbow/arm right wrist/arm
+      right finger 10/arm right finger 11
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+      1/arm right shoulder 2/arm right shoulder twist/arm right elbow/arm right wrist/arm
+      right finger 10/arm right finger 11/arm right finger 12
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+      1/arm right shoulder 2/arm right shoulder twist/arm right elbow/arm right wrist/arm
+      right finger 10/arm right finger 11/arm right finger 12/arm right finger 12_end
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+      1/arm right shoulder 2/arm right shoulder twist/arm right elbow/arm right wrist/arm
+      right finger 20
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+      1/arm right shoulder 2/arm right shoulder twist/arm right elbow/arm right wrist/arm
+      right finger 20/arm right finger 21
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+      1/arm right shoulder 2/arm right shoulder twist/arm right elbow/arm right wrist/arm
+      right finger 20/arm right finger 21/arm right finger 22
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+      1/arm right shoulder 2/arm right shoulder twist/arm right elbow/arm right wrist/arm
+      right finger 20/arm right finger 21/arm right finger 22/arm right finger 22_end
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+      1/arm right shoulder 2/arm right shoulder twist/arm right elbow/arm right wrist/arm
+      right finger 30
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+      1/arm right shoulder 2/arm right shoulder twist/arm right elbow/arm right wrist/arm
+      right finger 30/arm right finger 31
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+      1/arm right shoulder 2/arm right shoulder twist/arm right elbow/arm right wrist/arm
+      right finger 30/arm right finger 31/arm right finger 32
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+      1/arm right shoulder 2/arm right shoulder twist/arm right elbow/arm right wrist/arm
+      right finger 30/arm right finger 31/arm right finger 32/arm right finger 32_end
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+      1/arm right shoulder 2/arm right shoulder twist/arm right elbow/arm right wrist/arm
+      right finger 40
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+      1/arm right shoulder 2/arm right shoulder twist/arm right elbow/arm right wrist/arm
+      right finger 40/arm right finger 41
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+      1/arm right shoulder 2/arm right shoulder twist/arm right elbow/arm right wrist/arm
+      right finger 40/arm right finger 41/arm right finger 42
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+      1/arm right shoulder 2/arm right shoulder twist/arm right elbow/arm right wrist/arm
+      right finger 40/arm right finger 41/arm right finger 42/arm right finger 42_end
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+      adj
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+      adj/arm right shoulder adj_end
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/collar lower
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/collar lower/collar
+      upper
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/collar lower/collar
+      upper/collar upper_end
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/helmet lower
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/helmet lower/helmet
+      upper
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/helmet lower/helmet
+      upper/helmet visor
+    m_Weight: 1
+  - m_Path: Armature/root ground/root hips/spine lower/spine upper/helmet lower/helmet
+      upper/helmet visor/helmet visor_end
+    m_Weight: 1
